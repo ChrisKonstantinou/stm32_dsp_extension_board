@@ -1,0 +1,72 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ISL21080CIH315Z-TK-downloaded
+#
+DEF ISL21080CIH315Z-TK-downloaded IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "ISL21080CIH315Z-TK-downloaded" 950 200 50 H V L CNN
+F2 "SOT95P237X112-3N" 950 100 50 H I L CNN
+F3 "https://www.renesas.com/en-us/www/doc/datasheet/isl21080.pdf" 950 0 50 H I L CNN
+F4 "Voltage References 300nA NanoPower Voltage References" 950 -100 50 H I L CNN "Description"
+F5 "1.12" 950 -200 50 H I L CNN "Height"
+F6 "968-ISL21080CIH315ZT" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Renesas-Intersil/ISL21080CIH315Z-TK/?qs=9fLuogzTs8LxZWNzls3EKw%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Renesas Electronics" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ISL21080CIH315Z-TK" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 900 100 900 -200 200 -200 200 100 N
+X VIN 1 0 0 200 R 50 50 0 0 P
+X VOUT 2 0 -100 200 R 50 50 0 0 P
+X GND 3 1100 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# NMJ4HCD2-downloaded
+#
+DEF NMJ4HCD2-downloaded J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "NMJ4HCD2-downloaded" 750 200 50 H V L CNN
+F2 "NMJ4HCD2" 750 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/5/NMJ4HCD2.pdf" 750 0 50 H I L CNN
+F4 "Phone Connectors 2C MONO 2-SPST NC" 750 -100 50 H I L CNN "Description"
+F5 "550-12202" 750 -300 50 H I L CNN "Mouser Part Number"
+F6 "https://www.mouser.co.uk/ProductDetail/Neutrik/NMJ4HCD2?qs=SzdD80gJ2cAr9Xh3wJi7nw%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F7 "Neutrik" 750 -500 50 H I L CNN "Manufacturer_Name"
+F8 "NMJ4HCD2" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 700 100 700 -200 200 -200 200 100 N
+X TN 1 0 -100 200 R 50 50 0 0 P
+X SN 2 900 -100 200 L 50 50 0 0 P
+X S 3 900 0 200 L 50 50 0 0 P
+X T 4 0 0 200 R 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# X9C104SIZ-downloaded
+#
+DEF X9C104SIZ-downloaded IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "X9C104SIZ-downloaded" 1050 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 100 50 H I L CNN
+F3 "https://www.renesas.com/en-us/www/doc/datasheet/x9c102-103-104-503.pdf" 1050 0 50 H I L CNN
+F4 "DCPs Digitally Controlled Potentiometer (XDCP)" 1050 -100 50 H I L CNN "Description"
+F5 "1.75" 1050 -200 50 H I L CNN "Height"
+F6 "968-X9C104SIZ" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Renesas-Intersil/X9C104SIZ?qs=dAsayXGOMruUdX8LSyKaFg%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Renesas Electronics" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "X9C104SIZ" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+X ~INC 1 0 0 200 R 50 50 0 0 P
+X U/~D 2 0 -100 200 R 50 50 0 0 P
+X VH/RH 3 0 -200 200 R 50 50 0 0 P
+X VSS 4 0 -300 200 R 50 50 0 0 P
+X VW/RW 5 1200 -300 200 L 50 50 0 0 P
+X VL/RL 6 1200 -200 200 L 50 50 0 0 P
+X ~CS 7 1200 -100 200 L 50 50 0 0 P
+X VCC 8 1200 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

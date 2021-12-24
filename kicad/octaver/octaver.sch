@@ -277,7 +277,7 @@ F 3 "~" H 1250 4100 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L downloaded:X9C104SIZ IC1
+L octaver-rescue:X9C104SIZ-downloaded IC1
 U 1 1 618490AD
 P 800 4650
 F 0 "IC1" H 1400 4915 50  0000 C CNN
@@ -903,7 +903,7 @@ RL
 Wire Wire Line
 	5400 3450 5350 3450
 $Comp
-L downloaded:NMJ4HCD2 J1
+L octaver-rescue:NMJ4HCD2-downloaded J1
 U 1 1 6187ED00
 P 1200 1950
 F 0 "J1" H 1650 2215 50  0000 C CNN
@@ -1206,7 +1206,7 @@ Wire Wire Line
 	4850 2850 4850 3200
 Connection ~ 4850 3200
 $Comp
-L downloaded:NMJ4HCD2 J2
+L octaver-rescue:NMJ4HCD2-downloaded J2
 U 1 1 61E3A7DE
 P 2200 7350
 F 0 "J2" H 2650 7615 50  0000 C CNN
@@ -1809,7 +1809,7 @@ F 3 "" H 6900 4300 50  0001 C CNN
 $EndComp
 Connection ~ 6900 4300
 $Comp
-L downloaded:ISL21080CIH315Z-TK IC2
+L octaver-rescue:ISL21080CIH315Z-TK-downloaded IC2
 U 1 1 623CF186
 P 6650 5750
 AR Path="/623CF186" Ref="IC2"  Part="1" 
