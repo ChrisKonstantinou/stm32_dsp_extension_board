@@ -1,0 +1,22 @@
+Circuit: * D:\Documents\GitHub\guitar-pedal\spice_octave_digital\octaver.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Jul 09 14:43:45 2022
+Total elapsed time: 0.770 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9439
+traniter = 9434
+tranpoints = 2555
+accept = 2074
+rejected = 481
+matrix size = 763
+fillins = 1005
+solver = Normal
+Thread vector: 55.2/18.4[12] 12.8/5.3[12] 13.9/7.3[12] 2.4/2.2[2]  2592/500
+Matrix Compiler1: 99.48 KB object code size  31.3/16.2/[6.7]
+Matrix Compiler2: 81.09 KB object code size  10.1/10.4/[4.5]
+
